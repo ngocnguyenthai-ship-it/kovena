@@ -13,10 +13,19 @@
   border: 1px solid #E4E5E9;
   border-radius: 4px;
   padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+#container-widget .payment-method .content-form { display: none; }
+#container-widget .payment-method.selected .content-form { 
+  display: block;
+  border-top: 1px solid #F5F5F8;
+  padding: 20px 0 0 0;
 }
 #container-widget .payment-method .custom-radio {
-  width: 16px;
-  height: 16px;
+  width: 15px;
+  height: 15px;
   border-width: 1px;
   border-color: #B9BABE !important;
 }
