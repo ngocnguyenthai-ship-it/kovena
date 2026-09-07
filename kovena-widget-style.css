@@ -21,7 +21,7 @@
 }
 #container-widget .payment-method.selected { 
   border-color: #7A7D85 !important;
-  min-height: unset;
+  max-height: unset;
 }
 #container-widget .payment-method .content-form { display: none; }
 #container-widget .payment-method.selected .content-form { 
