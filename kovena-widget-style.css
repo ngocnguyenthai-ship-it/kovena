@@ -1,3 +1,6 @@
 #kvn-loading {
   background: none !important;
 }
+#container-widget {
+  padding: 0;
+}
