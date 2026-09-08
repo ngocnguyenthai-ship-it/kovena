@@ -29,6 +29,11 @@
   border-top: 1px solid #F5F5F8;
   padding: 20px 0 0 0;
 }
+#container-widget .payment-method.BrPix.selected .content-form { 
+  display: block;
+  border-top: 1px solid #F5F5F8;
+  padding: 20px 0 0 0;
+}
 #container-widget .payment-method .custom-radio {
   width: 15px;
   height: 15px;
@@ -55,7 +60,6 @@
 #container-widget .payment-method>label .method-header {
   width: 48px;
   height: 24px;
-  background-color: #FBFAF8;
   display: flex;
   justify-content: center;
   align-items: center;
