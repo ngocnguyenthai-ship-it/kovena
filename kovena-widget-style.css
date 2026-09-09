@@ -37,6 +37,12 @@
   border-top: 1px solid #F5F5F8;
   padding: 20px 0 0 0;
 }
+#container-widget .payment-method.GooglePay.selected .content-form { 
+  display: none;
+}
+#container-widget .payment-method.ApplePay.selected .content-form { 
+  display: none;
+}
 #container-widget .payment-method .custom-radio {
   width: 15px;
   height: 15px;
