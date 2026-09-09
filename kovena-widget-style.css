@@ -25,6 +25,7 @@
 #container-widget .payment-method.PaymentCard.selected { 
   border-color: #7A7D85 !important;
   max-height: unset;
+  gap: 20px;
 }
 #container-widget .payment-method.PaymentCard.selected .content-form { 
   display: block;
