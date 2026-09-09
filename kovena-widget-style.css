@@ -26,6 +26,7 @@
   border-color: #7A7D85 !important;
   max-height: unset;
 }
+#container-widget .payment-method.GooglePay .content-form {padding: 0 !important;}
 #container-widget .payment-method.GooglePay .content-form {display: none}
 #container-widget .payment-method.ApplePay .content-form {display: none}
 #container-widget .payment-method.BrPix .content-form {display: none}
