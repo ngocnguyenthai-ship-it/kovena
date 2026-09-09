@@ -27,9 +27,6 @@
   max-height: unset;
 }
 #container-widget .payment-method.GooglePay .content-form {padding: 0 !important;}
-#container-widget .payment-method.GooglePay .content-form {display: none}
-#container-widget .payment-method.ApplePay .content-form {display: none}
-#container-widget .payment-method.BrPix .content-form {display: none}
 #container-widget .payment-method.PaymentCard.selected .content-form { 
   display: block;
   border-top: 1px solid #F5F5F8;
