@@ -26,7 +26,7 @@
   border-color: #7A7D85 !important;
   max-height: unset;
 }
-#container-widget .payment-method.GooglePay .content-form {padding: 0 !important;}
+#container-widget .payment-method .content-form {padding: 0 !important;}
 #container-widget .payment-method.PaymentCard.selected .content-form { 
   display: block;
   border-top: 1px solid #F5F5F8;
