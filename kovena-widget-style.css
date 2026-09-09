@@ -21,6 +21,8 @@
 }
 #container-widget .payment-method.BrPix.selected {
   max-height: unset;
+  gap: 20px;
+  border-color: #7A7D85 !important;
 }
 #container-widget .payment-method.PaymentCard.selected { 
   border-color: #7A7D85 !important;
